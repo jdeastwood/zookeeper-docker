@@ -1,0 +1,5 @@
+zookeeper:
+  image: jdeastwood/zookeeper
+  hostname: zookeeper
+  ports: 
+    - "2181"
